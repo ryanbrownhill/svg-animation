@@ -1,5 +1,5 @@
-## Github Collaboration Presentation
+## SVG Animation Presentation
 
-This is a quick presentation I through together to show other teams how to use Github as a collaboration tool. 
+This is a quick presentation about SVG Animation.
 
-Take a look at it on [Github Pages](https://ryanbrownhill.github.io/github-collab-pres/#/)
+Take a look at it on [Github Pages](https://ryanbrownhill.github.io/svg-animation-pres/#/)
